@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="29.177" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="MagicBricks HomeLoans_check" name="validate User enter Income with valid data - Example #1.1" time="28.988">
+<system-out><![CDATA[
+Given Chrome is opened and Magic Bricks App is opened.......................passed
+Then user navigates to Landing Page.........................................passed
+When user clicks on HomeLoans...............................................passed
+And clicks on Home loan Eligibility.........................................passed
+Then user navigates to home loans eligibility calculator....................passed
+When user fills the form from given sheetname "Sheet1" and rownumber 0......passed
+When user check the Eligibility.............................................passed
+Then it shows Eligibility criteria..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
